@@ -160,7 +160,7 @@
 
 ---
 
-## **Capítulo 9: Análisis Forense y Recolección de Evidencias (15-20 páginas)**
+## **Capítulo 9: Análisis Forense y Recolección de Evidencias**
 ### **Objetivo**: Describir herramientas de Kali Linux para análisis forense en sistemas comprometidos.
 
 #### **9.1 Herramientas de Análisis Forense**
