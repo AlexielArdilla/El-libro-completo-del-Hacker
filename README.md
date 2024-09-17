@@ -1,7 +1,7 @@
 # El-libro-completo-del-Hacker
 ![imagen de portada del libro](El-libro-completo-del-Hacker.png)
 
-## Título del Libro: "Pentesting con Kali Linux: Guía Completa de Herramientas y Técnicas"
+##  "Pentesting con Kali Linux: Guía Completa de Herramientas y Técnicas"
 
 ### **Introducción (10 páginas)**
 - **¿Qué es Kali Linux?**
