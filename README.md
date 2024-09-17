@@ -3,7 +3,7 @@
 
 ##  "Pentesting con Kali Linux: Guía Completa de Herramientas y Técnicas"
 
-### **Introducción (10 páginas)**
+### **Introducción**
 - **¿Qué es Kali Linux?**
   - Historia y evolución de Kali Linux.
   - Por qué Kali es la distribución preferida para pruebas de penetración.
